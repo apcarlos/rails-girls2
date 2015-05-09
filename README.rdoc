@@ -1,0 +1,11 @@
+== README
+
+Check meetups
+Meet people
+go to Rails Girls events
+meet people
+give out business cards
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
